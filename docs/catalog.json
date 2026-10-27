@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-27T15:55:30.621043+00:00",
+  "releases": [
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-03-10",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/1rUQrRLdHjTyp5do7gNHu7",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2026,
+      "id": "1rUQrRLdHjTyp5do7gNHu7",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Latin America",
+      "artist": "Global Food Beats",
+      "title": "Taste of Latin America",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/1rUQrRLdHjTyp5do7gNHu7.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-03-07",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/2cHoEslTcX90z6moV99CfW",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2026,
+      "id": "2cHoEslTcX90z6moV99CfW",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "China",
+      "artist": "Global Food Beats",
+      "title": "Taste of the Orient",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2cHoEslTcX90z6moV99CfW.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-02-09",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/46iXXAHYn8xzr2m2nTlk97",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2026,
+      "id": "46iXXAHYn8xzr2m2nTlk97",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Mediterranean",
+      "artist": "Global Food Beats",
+      "title": "Taste of Mediterranean",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/46iXXAHYn8xzr2m2nTlk97.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-10-17",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/7wgRaWQ6LSQuUnpRxtsVq0",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "7wgRaWQ6LSQuUnpRxtsVq0",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Southeast Asia",
+      "artist": "Global Food Beats",
+      "title": "Taste of Southeast Asia (volume 2)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/7wgRaWQ6LSQuUnpRxtsVq0.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-10-04",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/0efBJkHc2rM8FJ1V1PIFKq",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "0efBJkHc2rM8FJ1V1PIFKq",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Southeast Asia",
+      "artist": "Global Food Beats",
+      "title": "Taste of Southeast Asia (volume 1)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/0efBJkHc2rM8FJ1V1PIFKq.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-10-02",
+      "type": "ALBUM",
+      "tracks": 28,
+      "url": "https://open.spotify.com/album/5Z96XSUmzom2CuRJHnYnJ1",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "5Z96XSUmzom2CuRJHnYnJ1",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "South Asia",
+      "artist": "Global Food Beats",
+      "title": "Taste of South Asia",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5Z96XSUmzom2CuRJHnYnJ1.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-09-19",
+      "type": "ALBUM",
+      "tracks": 24,
+      "url": "https://open.spotify.com/album/4ERkln5NcPtOqnhgyrMLIX",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "4ERkln5NcPtOqnhgyrMLIX",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Arabia",
+      "artist": "Global Food Beats",
+      "title": "Taste of Arabia | طَعْم العَرَب | Volume 2",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4ERkln5NcPtOqnhgyrMLIX.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-09-18",
+      "type": "ALBUM",
+      "tracks": 24,
+      "url": "https://open.spotify.com/album/4yKTmjgdJDr8U9XSS62qf1",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "4yKTmjgdJDr8U9XSS62qf1",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Arabia",
+      "artist": "Global Food Beats",
+      "title": "Taste of Arabia طعم العرب Volume 1",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4yKTmjgdJDr8U9XSS62qf1.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-09-17",
+      "type": "ALBUM",
+      "tracks": 27,
+      "url": "https://open.spotify.com/album/6vycwofG0lvsgOuVtex7Jz",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "6vycwofG0lvsgOuVtex7Jz",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "America",
+      "artist": "Global Food Beats",
+      "title": "Taste of America",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6vycwofG0lvsgOuVtex7Jz.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-30",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/36XxaGpY2I7D3nDpCIQR2t",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "36XxaGpY2I7D3nDpCIQR2t",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "India",
+      "artist": "Global Food Beats",
+      "title": "Taste of India | भारत का स्वाद",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/36XxaGpY2I7D3nDpCIQR2t.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-29",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/14YbaZdG3QJSayXlCjUawR",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "14YbaZdG3QJSayXlCjUawR",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Japan",
+      "artist": "Global Food Beats",
+      "title": "Taste of Japan | 日本の味",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/14YbaZdG3QJSayXlCjUawR.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-28",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/5xp2ZEDmPwHTaUCuwiRGQ8",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "5xp2ZEDmPwHTaUCuwiRGQ8",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "France",
+      "artist": "Global Food Beats",
+      "title": "Taste of France",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5xp2ZEDmPwHTaUCuwiRGQ8.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-27",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/1k7ggOsO4t7vvoOGGf71ZD",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "1k7ggOsO4t7vvoOGGf71ZD",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Italy",
+      "artist": "Global Food Beats",
+      "title": "Taste of Italy",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/1k7ggOsO4t7vvoOGGf71ZD.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-27",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/5HMbGxs4xiCDYkdYFU3lUg",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "5HMbGxs4xiCDYkdYFU3lUg",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Mexico",
+      "artist": "Global Food Beats",
+      "title": "Taste of Mexico",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5HMbGxs4xiCDYkdYFU3lUg.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-23",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/6bebKXitpHJ35xXgde2vl7",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2025,
+      "id": "6bebKXitpHJ35xXgde2vl7",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Austria",
+      "artist": "Global Food Beats",
+      "title": "Taste of Austria",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6bebKXitpHJ35xXgde2vl7.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-03-11",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/2bYDskMvi2OJ54oU8XHM8I",
+      "artists": [
+        "Global Food Beats"
+      ],
+      "year": 2026,
+      "id": "2bYDskMvi2OJ54oU8XHM8I",
+      "tag": "Food & travel",
+      "artistUrl": "https://open.spotify.com/artist/3vapxsqeDDjBxIsLm3U24y",
+      "region": "Turkey",
+      "artist": "Global Food Beats",
+      "title": "Taste of Turkey",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2bYDskMvi2OJ54oU8XHM8I.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-10-13",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/59gPQfyZWYWdlZqVaZUAY3",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2025,
+      "id": "59gPQfyZWYWdlZqVaZUAY3",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Italian Restaurant Music: Daytime Dining (volume 1)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/59gPQfyZWYWdlZqVaZUAY3.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-10-19",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/3DMmbfJ9CcxMIScU9OacQp",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2025,
+      "id": "3DMmbfJ9CcxMIScU9OacQp",
+      "tag": "Evening dining",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Italian Restaurant Music: Romantic Evenings (volume 2)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/3DMmbfJ9CcxMIScU9OacQp.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-11-01",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/34kREaG7D4jWbVNf4Psdvm",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2025,
+      "id": "34kREaG7D4jWbVNf4Psdvm",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "France",
+      "artist": "Global Restaurant Beats",
+      "title": "French Restaurant Music: Daytime Dining (volume 1)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/34kREaG7D4jWbVNf4Psdvm.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-02-28",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/4bFTBvO3oLEH4CWCLchDEw",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "4bFTBvO3oLEH4CWCLchDEw",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Thailand",
+      "artist": "Global Restaurant Beats",
+      "title": "Thai Restaurant Music: Daytime Dining (volume 1) (เพลงประกอบร้านอาหารไทย)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4bFTBvO3oLEH4CWCLchDEw.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-01-20",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/2NbaUwUu3CauyLC1FrSuBj",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "2NbaUwUu3CauyLC1FrSuBj",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Mexico",
+      "artist": "Global Restaurant Beats",
+      "title": "Mexican Restaurant Music: Daytime Dining (volume 1)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2NbaUwUu3CauyLC1FrSuBj.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-09-16",
+      "type": "ALBUM",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/3sesxpBijDLjOhWmyF8d10",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "3sesxpBijDLjOhWmyF8d10",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Worldwide",
+      "artist": "Global Restaurant Beats",
+      "title": "Coffee Shop Ambience Music",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/3sesxpBijDLjOhWmyF8d10.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-09-03",
+      "type": "ALBUM",
+      "tracks": 33,
+      "url": "https://open.spotify.com/album/4GKgdEPBtkBu7HBBLjzmUy",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "4GKgdEPBtkBu7HBBLjzmUy",
+      "tag": "Evening dining",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Dolci Evening in Italy",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4GKgdEPBtkBu7HBBLjzmUy.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-08-27",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/5Ms4F30CtWvJyOOeJ1aeMR",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "5Ms4F30CtWvJyOOeJ1aeMR",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Italian-American Dinner Music",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5Ms4F30CtWvJyOOeJ1aeMR.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-08-25",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/6F5v070BZUnrVsLZwF0rJM",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "6F5v070BZUnrVsLZwF0rJM",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Italian Pizza Restaurant Music",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6F5v070BZUnrVsLZwF0rJM.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-08-24",
+      "type": "ALBUM",
+      "tracks": 34,
+      "url": "https://open.spotify.com/album/4mOLLoyAjYQVXnDMBO2lsa",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "4mOLLoyAjYQVXnDMBO2lsa",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Italy",
+      "artist": "Global Restaurant Beats",
+      "title": "Italian Pasta Dinner Music",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4mOLLoyAjYQVXnDMBO2lsa.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-03-14",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/0Hn4bwajco9NZWjKnyPVLd",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "0Hn4bwajco9NZWjKnyPVLd",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "China",
+      "artist": "Global Restaurant Beats",
+      "title": "Chinese Restaurant Music: Daytime Dining (volume 1) 中餐馆音乐：日间用餐",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/0Hn4bwajco9NZWjKnyPVLd.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-02-22",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/69ir3moW1JiqUvZh8xE05w",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "69ir3moW1JiqUvZh8xE05w",
+      "tag": "Restaurant collection",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "India",
+      "artist": "Global Restaurant Beats",
+      "title": "Indian Restaurant Music: Daytime Dining (volume 1)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/69ir3moW1JiqUvZh8xE05w.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-09-15",
+      "type": "ALBUM",
+      "tracks": 22,
+      "url": "https://open.spotify.com/album/5aawMQjKblTIfBB0bFw9JT",
+      "artists": [
+        "Circle of Domination"
+      ],
+      "year": 2025,
+      "id": "5aawMQjKblTIfBB0bFw9JT",
+      "tag": "Sport & energy",
+      "artistUrl": "https://open.spotify.com/artist/4PLFHbBg6OMErCk2Cbg0dH",
+      "region": "Worldwide",
+      "artist": "Circle of Domination",
+      "title": "The Road to Glory",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5aawMQjKblTIfBB0bFw9JT.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-08-01",
+      "type": "ALBUM",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/2YZmqgrjP2kEoN4QThZmMG",
+      "artists": [
+        "Circle of Domination"
+      ],
+      "year": 2025,
+      "id": "2YZmqgrjP2kEoN4QThZmMG",
+      "tag": "Sport & energy",
+      "artistUrl": "https://open.spotify.com/artist/4PLFHbBg6OMErCk2Cbg0dH",
+      "region": "Worldwide",
+      "artist": "Circle of Domination",
+      "title": "Street Wars",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2YZmqgrjP2kEoN4QThZmMG.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-01-28",
+      "type": "ALBUM",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/7hTqLzgzT0sw33CvaOtvMd",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2026,
+      "id": "7hTqLzgzT0sw33CvaOtvMd",
+      "tag": "Evening dining",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "Mexico",
+      "artist": "Global Restaurant Beats",
+      "title": "Mexican Restaurant Music: Evening Dining (volume 2)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/7hTqLzgzT0sw33CvaOtvMd.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-01-24",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/6fVCXOCsvvoR964PoJX4NH",
+      "artists": [
+        "Fireside Voices"
+      ],
+      "year": 2026,
+      "id": "6fVCXOCsvvoR964PoJX4NH",
+      "tag": "Acoustic & intimate",
+      "artistUrl": "https://open.spotify.com/artist/021DwP56LLKIgWdVXAEW08",
+      "region": "Worldwide",
+      "artist": "Fireside Voices",
+      "title": "Slow Down Together",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6fVCXOCsvvoR964PoJX4NH.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-12-05",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/6JuQ9Isn2GGqoDOxTgUCL1",
+      "artists": [
+        "Fireside Voices"
+      ],
+      "year": 2025,
+      "id": "6JuQ9Isn2GGqoDOxTgUCL1",
+      "tag": "Acoustic & intimate",
+      "artistUrl": "https://open.spotify.com/artist/021DwP56LLKIgWdVXAEW08",
+      "region": "Worldwide",
+      "artist": "Fireside Voices",
+      "title": "Christmas Starts Again",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6JuQ9Isn2GGqoDOxTgUCL1.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-09-16",
+      "type": "EP",
+      "tracks": 4,
+      "url": "https://open.spotify.com/album/2ynQ5N0J026tHkMYxKdT0K",
+      "artists": [
+        "Fireside Voices"
+      ],
+      "year": 2025,
+      "id": "2ynQ5N0J026tHkMYxKdT0K",
+      "tag": "Acoustic & intimate",
+      "artistUrl": "https://open.spotify.com/artist/021DwP56LLKIgWdVXAEW08",
+      "region": "Worldwide",
+      "artist": "Fireside Voices",
+      "title": "Something More EP",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2ynQ5N0J026tHkMYxKdT0K.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-11-11",
+      "type": "ALBUM",
+      "tracks": 35,
+      "url": "https://open.spotify.com/album/2wLEaGjXXHMe8Ky3w2SD2Q",
+      "artists": [
+        "Global Restaurant Beats"
+      ],
+      "year": 2025,
+      "id": "2wLEaGjXXHMe8Ky3w2SD2Q",
+      "tag": "Evening dining",
+      "artistUrl": "https://open.spotify.com/artist/34rZFKVHU4TXBvJDaWwQPO",
+      "region": "France",
+      "artist": "Global Restaurant Beats",
+      "title": "French Restaurant Music: Romantic Evenings (volume 2)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2wLEaGjXXHMe8Ky3w2SD2Q.jpg"
+    },
+    {
+      "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
+      "releaseDate": "2026-06-17",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/79D7cSQOTma4hyE7efWzsY",
+      "artists": [
+        "Jwz"
+      ],
+      "year": 2026,
+      "id": "79D7cSQOTma4hyE7efWzsY",
+      "tag": "Party & celebration",
+      "artistUrl": "https://open.spotify.com/artist/1MiNyqkie5eIomOSdVmNkm",
+      "region": "Worldwide",
+      "artist": "Jwz",
+      "title": "Het Paradelied (ter Cleeff)",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/79D7cSQOTma4hyE7efWzsY.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-08-15",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/60RnozUi3KIprS3SUzZFeA",
+      "artists": [
+        "Jwz"
+      ],
+      "year": 2025,
+      "id": "60RnozUi3KIprS3SUzZFeA",
+      "tag": "Party & celebration",
+      "artistUrl": "https://open.spotify.com/artist/1MiNyqkie5eIomOSdVmNkm",
+      "region": "Worldwide",
+      "artist": "Jwz",
+      "title": "Sechzehn Aperol Spritz",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/60RnozUi3KIprS3SUzZFeA.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-08-06",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/2UYBtEQRpCpZEG9AbaNoVX",
+      "artists": [
+        "Jwz"
+      ],
+      "year": 2025,
+      "id": "2UYBtEQRpCpZEG9AbaNoVX",
+      "tag": "Party & celebration",
+      "artistUrl": "https://open.spotify.com/artist/1MiNyqkie5eIomOSdVmNkm",
+      "region": "Worldwide",
+      "artist": "Jwz",
+      "title": "Zestien Aperol Spritz",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/2UYBtEQRpCpZEG9AbaNoVX.jpg"
+    },
+    {
+      "copyright": "2025 Enigmatic Records | 2025 Enigmatic Records",
+      "releaseDate": "2025-07-25",
+      "type": "SINGLE",
+      "tracks": 1,
+      "url": "https://open.spotify.com/album/6VGPYYbK7PZ0ihbtjkoyBZ",
+      "artists": [
+        "Jwz"
+      ],
+      "year": 2025,
+      "id": "6VGPYYbK7PZ0ihbtjkoyBZ",
+      "tag": "Party & celebration",
+      "artistUrl": "https://open.spotify.com/artist/1MiNyqkie5eIomOSdVmNkm",
+      "region": "Worldwide",
+      "artist": "Jwz",
+      "title": "Paula is dik",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6VGPYYbK7PZ0ihbtjkoyBZ.jpg"
+    },
+    {
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts",
+      "releaseDate": "2026-09-29",
+      "type": "ALBUM",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/68aYQsJp1HaYoFlumq7vFe",
+      "artists": [
+        "The Mapo Club"
+      ],
+      "year": 2026,
+      "id": "68aYQsJp1HaYoFlumq7vFe",
+      "tag": "Independent release",
+      "artistUrl": "https://open.spotify.com/artist/4mL2Zx7igRVZkIDkTpd5eh",
+      "region": "South Korea",
+      "artist": "The Mapo Club",
+      "title": "Seoul After Midnight",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/68aYQsJp1HaYoFlumq7vFe.jpg"
+    },
+    {
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts",
+      "releaseDate": "2026-10-12",
+      "type": "ALBUM",
+      "tracks": 28,
+      "url": "https://open.spotify.com/album/0MTCDwnn7XzqUHiZwCYQq2",
+      "artists": [
+        "The Galata Ensemble"
+      ],
+      "year": 2026,
+      "id": "0MTCDwnn7XzqUHiZwCYQq2",
+      "tag": "Independent release",
+      "artistUrl": "https://open.spotify.com/artist/2X1nYwu828yPnd2ukKQAEK",
+      "region": "Turkey",
+      "artist": "The Galata Ensemble",
+      "title": "Istanbul at the Blue Hour",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/0MTCDwnn7XzqUHiZwCYQq2.jpg"
+    },
+    {
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts",
+      "releaseDate": "2026-10-05",
+      "type": "ALBUM",
+      "tracks": 28,
+      "url": "https://open.spotify.com/album/07yF85AlmfJbwYsd2Z48Ld",
+      "artists": [
+        "Bonbon Parlour"
+      ],
+      "year": 2026,
+      "id": "07yF85AlmfJbwYsd2Z48Ld",
+      "tag": "Independent release",
+      "artistUrl": "https://open.spotify.com/artist/6Znjiob4VwLiIVEMmGl7f9",
+      "region": "Worldwide",
+      "artist": "Bonbon Parlour",
+      "title": "Chocolate for a Rainy Sunday",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/07yF85AlmfJbwYsd2Z48Ld.jpg"
+    }
+  ]
+}
