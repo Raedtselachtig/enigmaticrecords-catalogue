@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T03:22:00.852265+00:00",
+  "updatedAt": "2026-11-16T09:53:42.564068+00:00",
   "releases": [
     {
       "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
@@ -699,6 +699,114 @@
       "url": "https://open.spotify.com/album/7Ba7tb6OJWx4dsXIxTGexA",
       "artistUrl": "https://open.spotify.com/artist/6Znjiob4VwLiIVEMmGl7f9",
       "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/7Ba7tb6OJWx4dsXIxTGexA.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "16eCuBB4Rcw39FzuaH3vbT",
+      "title": "Christmas Market Lights",
+      "artist": "The December Social Club",
+      "artists": [
+        "The December Social Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-10-28",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/16eCuBB4Rcw39FzuaH3vbT",
+      "artistUrl": "https://open.spotify.com/artist/3F6ULLLLNDVPENy18lUYDy",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/16eCuBB4Rcw39FzuaH3vbT.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "4Puuu4oVKgcbHgYhrUagAE",
+      "title": "Mulled Wine and Christmas Lights",
+      "artist": "Holly Lane Players",
+      "artists": [
+        "Holly Lane Players"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-10-26",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/4Puuu4oVKgcbHgYhrUagAE",
+      "artistUrl": "https://open.spotify.com/artist/5FugwWboOrkZMBCztnnIdj",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4Puuu4oVKgcbHgYhrUagAE.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "4qBhcD84hLbFxibEUyNdfz",
+      "title": "Christmas After Dinner",
+      "artist": "Holly Lane Players",
+      "artists": [
+        "Holly Lane Players"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-10-17",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/4qBhcD84hLbFxibEUyNdfz",
+      "artistUrl": "https://open.spotify.com/artist/5FugwWboOrkZMBCztnnIdj",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4qBhcD84hLbFxibEUyNdfz.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "5Ov28hazQjO2lo88H4x6La",
+      "title": "Christmas Eve, Together",
+      "artist": "The December Social Club",
+      "artists": [
+        "The December Social Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-10-22",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/5Ov28hazQjO2lo88H4x6La",
+      "artistUrl": "https://open.spotify.com/artist/1F909D4sHzAFBeGTEYyvm5",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5Ov28hazQjO2lo88H4x6La.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "5rxxC8DH2vNBNlRb0gKXhj",
+      "title": "Christmas Morning at Home",
+      "artist": "The December Social Club",
+      "artists": [
+        "The December Social Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-11-08",
+      "tracks": 25,
+      "url": "https://open.spotify.com/album/5rxxC8DH2vNBNlRb0gKXhj",
+      "artistUrl": "https://open.spotify.com/artist/3F6ULLLLNDVPENy18lUYDy",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/5rxxC8DH2vNBNlRb0gKXhj.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "6FQe1z90lja264me483mFG",
+      "title": "Christmas at the Piano",
+      "artist": "The Alder Piano Club",
+      "artists": [
+        "The Alder Piano Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-11-03",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/6FQe1z90lja264me483mFG",
+      "artistUrl": "https://open.spotify.com/artist/0451WpsHTS3qqlIztCBhbG",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6FQe1z90lja264me483mFG.jpg",
       "region": "Worldwide",
       "tag": "Independent release",
       "type": "ALBUM",
