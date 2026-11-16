@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:10:57.627939+00:00",
+  "updatedAt": "2026-11-16T03:22:00.852265+00:00",
   "releases": [
     {
       "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
@@ -685,6 +685,24 @@
       "artist": "Bonbon Parlour",
       "title": "Chocolate for a Rainy Sunday",
       "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/07yF85AlmfJbwYsd2Z48Ld.jpg"
+    },
+    {
+      "id": "7Ba7tb6OJWx4dsXIxTGexA",
+      "title": "Christmas Dinner with Friends",
+      "artist": "Bonbon Parlour",
+      "artists": [
+        "Bonbon Parlour"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-11-16",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/7Ba7tb6OJWx4dsXIxTGexA",
+      "artistUrl": "https://open.spotify.com/artist/6Znjiob4VwLiIVEMmGl7f9",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/7Ba7tb6OJWx4dsXIxTGexA.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
     }
   ]
 }
