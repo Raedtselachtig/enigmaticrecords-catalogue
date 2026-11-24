@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T09:59:12.430799+00:00",
+  "updatedAt": "2026-11-24T23:22:13.446070+00:00",
   "releases": [
     {
       "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
@@ -825,6 +825,24 @@
       "url": "https://open.spotify.com/album/6SkJMuKMJr2DQgnX7CDTQz",
       "artistUrl": "https://open.spotify.com/artist/1F909D4sHzAFBeGTEYyvm5",
       "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6SkJMuKMJr2DQgnX7CDTQz.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "4q1jFXXBvcc1ytO40OCUfa",
+      "title": "Seoul After Midnight",
+      "artist": "The Mapo Club",
+      "artists": [
+        "The Mapo Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-09-29",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/4q1jFXXBvcc1ytO40OCUfa",
+      "artistUrl": "https://open.spotify.com/artist/4mL2Zx7igRVZkIDkTpd5eh",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/4q1jFXXBvcc1ytO40OCUfa.jpg",
       "region": "Worldwide",
       "tag": "Independent release",
       "type": "ALBUM",
