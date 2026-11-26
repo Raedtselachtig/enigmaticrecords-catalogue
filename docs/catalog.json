@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T11:21:02.375463+00:00",
+  "updatedAt": "2026-11-26T15:21:01.826024+00:00",
   "releases": [
     {
       "copyright": "2026 Enigmatic Records | 2026 Enigmatic Records",
@@ -861,6 +861,24 @@
       "url": "https://open.spotify.com/album/3qOHUilsqgJPK1EwxqUpNl",
       "artistUrl": "https://open.spotify.com/artist/5FugwWboOrkZMBCztnnIdj",
       "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/3qOHUilsqgJPK1EwxqUpNl.jpg",
+      "region": "Worldwide",
+      "tag": "Independent release",
+      "type": "ALBUM",
+      "copyright": "2026 Simon Raedts | 2026 Simon Raedts"
+    },
+    {
+      "id": "6Up8odRjHG3X3nbmCZ11DU",
+      "title": "Christmas Eve, Together",
+      "artist": "The December Social Club",
+      "artists": [
+        "The December Social Club"
+      ],
+      "year": 2026,
+      "releaseDate": "2026-10-22",
+      "tracks": 26,
+      "url": "https://open.spotify.com/album/6Up8odRjHG3X3nbmCZ11DU",
+      "artistUrl": "https://open.spotify.com/artist/1F909D4sHzAFBeGTEYyvm5",
+      "cover": "https://raedtselachtig.github.io/enigmaticrecords-catalogue/assets/6Up8odRjHG3X3nbmCZ11DU.jpg",
       "region": "Worldwide",
       "tag": "Independent release",
       "type": "ALBUM",
